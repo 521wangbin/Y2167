@@ -6,7 +6,7 @@ package cn.Spring.t01;
 public class HappyService {
     private String name;
     private Integer age;
-    private String authorss;
+    private String authorsssss;
     public String getName() {
         return name;
     }
